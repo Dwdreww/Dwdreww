@@ -41,7 +41,6 @@ Currently, I am focused on:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=19183b)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### AI / Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -84,9 +83,11 @@ Currently, I am focused on:
 
 <div align="center">
 
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dwdreww&show_icons=true&theme=tokyonight&hide_border=true)
+![Andrew's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dwdreww&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dwdreww&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dwdreww&theme=tokyonight)
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dwdreww&theme=tokyonight)
 
 </div>
 
